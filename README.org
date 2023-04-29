@@ -1,0 +1,25 @@
+* Welcome to the Some Clues Development Site!
+
+Here's the link for the [[https://touchpuuhonua.github.io/SomeClues/][Some Clues Website]].
+
+If you'd like to participate in developing Some Clues, we're currently
+doing that by writing new material in [[https://orgmode.org/][OrgMode]] markup text and then
+exporting that to HTML, etc.
+
+We're hosting all of this material on [[https://github.com/TouchPuuhonua/SomeClues#readme][our GitHub Repostory]].
+
+The best way to participate directly is to
+- Get yourself a GitHub account
+- Post Issues on our Repostory with your feedback and/or plans
+- Clone our repostory
+- Independently modify your Clone
+- Send us /Pull Requests/ with anything you'd like to contribute
+
+Please be sure to respect our [[file:LICENCE][LICENSE]].
+- Our license is Open Source
+- This protects everyone's continued access to the material
+  - Including their right to redistribute it, with attribution
+
+If you'd like us to incorporate your improvements in our repository
+- And we'll need a /Copyright Assignment/ from you to do that
+- Be sure and clear any questions and/or expectations first via Issues!
